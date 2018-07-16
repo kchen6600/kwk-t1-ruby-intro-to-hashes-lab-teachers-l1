@@ -30,9 +30,9 @@ def monopoly_with_third_tier
 	monopoly_with_third_tier[:railroads][:names] = {}
 	monopoly_with_third_tier[:railroads][:rent_in_dollars] = {}
 	monopoly_with_third_tier[:railroads][:rent_in_dollars][:one_piece_owned] = 25
-	monopoly_with_third_tier[:railroads][:rent_in_dollars][:two_piece_owned] = 50
-	monopoly_with_third_tier[:railroads][:rent_in_dollars][:three_piece_owned] = 100
-	monopoly_with_third_tier[:railroads][:rent_in_dollars][:four_piece_owned] = 200
+	monopoly_with_third_tier[:railroads][:rent_in_dollars][:two_pieces_owned] = 50
+	monopoly_with_third_tier[:railroads][:rent_in_dollars][:three_pieces_owned] = 100
+	monopoly_with_third_tier[:railroads][:rent_in_dollars][:four_pieces_owned] = 200
 	monopoly_with_third_tier[:railroads][:names][:reading_railroad] = {}
 	monopoly_with_third_tier[:railroads][:names][:pennsylvania_railroad] = {}
 	monopoly_with_third_tier[:railroads][:names][:b_and_o_railroad] = {}
@@ -48,9 +48,9 @@ def monopoly_with_fourth_tier
 	monopoly_with_fourth_tier[:railroads][:names] = {}
 	monopoly_with_fourth_tier[:railroads][:rent_in_dollars] = {}
 	monopoly_with_fourth_tier[:railroads][:rent_in_dollars][:one_piece_owned] = 25
-	monopoly_with_fourth_tier[:railroads][:rent_in_dollars][:two_piece_owned] = 50
-	monopoly_with_fourth_tier[:railroads][:rent_in_dollars][:three_piece_owned] = 100
-	monopoly_with_fourth_tier[:railroads][:rent_in_dollars][:four_piece_owned] = 200
+	monopoly_with_fourth_tier[:railroads][:rent_in_dollars][:two_pieces_owned] = 50
+	monopoly_with_fourth_tier[:railroads][:rent_in_dollars][:three_pieces_owned] = 100
+	monopoly_with_fourth_tier[:railroads][:rent_in_dollars][:four_pieces_owned] = 200
 	monopoly_with_fourth_tier[:railroads][:names][:reading_railroad] = {}
 	monopoly_with_fourth_tier[:railroads][:names][:pennsylvania_railroad] = {}
 	monopoly_with_fourth_tier[:railroads][:names][:b_and_o_railroad] = {}
